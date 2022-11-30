@@ -1,9 +1,7 @@
 galaxy_info:
-  author: Destian
-  description: Role for configuring vkcom lighthouse software
-  company: Lerdo
-  role_name: lighthouse_role
-  namespace: Destian1995
+  role_name: linux_administration
+  namespace: glennbell
+
   # If the issue tracker for your role is not on github, uncomment the
   # next line and provide a value
   # issue_tracker_url: http://example.com/issue/tracker
